@@ -1,0 +1,8 @@
+1.Crie um arquivo em python que tenha as funcies: Middle que receba uma lista e retorno uma nova lista com todos os elementos originais, 
+exceto o primeiro e o ultimo elementos,"soma" que retorna a soma de todos os elementos na lista recebida"qts_ele" que retorna a quantidade
+ de numeros na lista, soma_par e soma_impar que retornam a soma dos elementos pares e impares respectivamente.
+Importe esse arquivo em outro codigo e faça uso dessas funcoes.
+
+2.Escreva um programa que cadastre informações de varias pessoas(nome,idade e profissão) e depois coloquw em um dicionario e exiba
+de maneira organizada. O programa deve receber do usuario quantos dados este quiser enviar, coloque uma condição de parada para que
+o usuario decida que nao quer mais inserir dados. A insercao de cada pessoa no dicionario deve ser feita por meio da chamada de uma função.
